@@ -1,0 +1,12 @@
+type,series,model,diagonal,screen type,country,price
+Telephone,S20,Samsung,none,QLED,none,500
+Telephone,S21,Samsung,none,QLED,none,600
+Telephone,iPhone XR,Apple,none,OLED,none,500
+Telephone,iPhone 14,Apple,none,OLED,none,1000
+Telephone,iPhone 13,Apple,none,OLED,none,800
+Television,Samsung Q70,none,70,QLED,Thailand,1300
+Television,Samsung Q55,none,50,QLED;Thailand,1000
+Television,LG-47,none,47,LED,Korea,900
+Television,LG-43,none,43,LED,Korea,800
+Television,Kivi-43,none,43,LED;China,500
+Television,Samsung Q43,none,43,QLED,,800
